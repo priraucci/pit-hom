@@ -60,7 +60,8 @@
                     <targetTests>
                         <param>prova.pit.hom.*</param>
                     </targetTests>
-                    <hom>3</hom>
+                    <hom>2</hom>
+                    <mutators>STRONGER</mutators>
                     <mutantProcessingMethod>stream-batch</mutantProcessingMethod>
                 </configuration>
             </plugin>
