@@ -1,5 +1,5 @@
 # Passaggi per installare pit-hom in locale
-1. clonare il progetto "pitest-pit-hom", aprirlo da linea di comando lanciare "mvn install"
+1. clonare il progetto "pitest-pit-hom", aprirlo con un IDE e lanciare "mvn install" per installare il plugin in locale
 
 2. scrivere nel pom del progetto in cui usare il plugin 
 
