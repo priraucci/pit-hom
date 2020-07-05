@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ProvaPit-HOM" />
         <module name="ProvaPit" />
+        <module name="ProvaPit-HOM" />
+        <module name="pit-hom" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="12" />

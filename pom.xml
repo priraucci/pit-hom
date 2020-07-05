@@ -55,10 +55,10 @@
                 <version>1.5.1-HOM</version>
                 <configuration>
                     <targetClasses>
-                        <param>prova.pit.hom.*</param>
+                        <param>prova.pit.hom.MyClass</param>
                     </targetClasses>
                     <targetTests>
-                        <param>prova.pit.hom.*</param>
+                        <param>prova.pit.hom.MyClassTest</param>
                     </targetTests>
                     <hom>3</hom>
                     <mutantProcessingMethod>stream-batch</mutantProcessingMethod>

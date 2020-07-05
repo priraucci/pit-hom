@@ -21,3 +21,4 @@
     </configuration>
 </plugin>
 ```
+codice di MyClass e MyClassTest preso da: https://github.com/klynch/pit-example
