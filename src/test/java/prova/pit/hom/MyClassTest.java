@@ -45,6 +45,7 @@ public class MyClassTest {
     public void testAnegativeTrue(){
         assertTrue(sut.myMethod(-2, true));
     }
+
     @Test
     public void testAnegativeFalse(){
         assertFalse(sut.myMethod(-3, false));
