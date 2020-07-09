@@ -23,4 +23,4 @@
 ```
 
 
-Qui https://gitlab.com/sofiagattucci/pit-hom/-/blob/master/HOMT.pdf puoi trovare la presentazione 
+Qui https://gitlab.com/sofiagattucci/pit-hom/-/blob/master/HOMTnv.pdf puoi trovare la presentazione 
